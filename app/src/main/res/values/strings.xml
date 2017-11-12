@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Scales</string>
+    <string name="press">PRESS</string>
+    <string name="button">BUTTON</string>
+    <string name="now">NOW</string>
+    <string name="start">START</string>
+
+    <string-array name="scales">
+        <item>D-flat major scale</item>
+        <item>D-flat major arpeggio</item>
+        <item>B major arpeggio</item>
+        <item>D-flat chromatic</item>
+        <item>B-flat minor scale</item>
+        <item>B-flat minor arpeggio</item>
+        <item>G-sharp minor scale</item>
+        <item>G-sharp minor arpeggio</item>
+        <item>G minor contrary motion</item>
+        <item>B major scale</item>
+        <item>B diminished seventh</item>
+    </string-array>
+
+    <string-array name="dynamics">
+        <item>Forte</item>
+        <item>Piano</item>
+    </string-array>
+
+    <string-array name="structures">
+        <item>Legato</item>
+        <item>Staccato</item>
+    </string-array>
+
+</resources>
