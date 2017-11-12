@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         etScale = findViewById(R.id.scale);
         etDynamic = findViewById(R.id.dynamic);
         etStructure = findViewById(R.id.structure);
